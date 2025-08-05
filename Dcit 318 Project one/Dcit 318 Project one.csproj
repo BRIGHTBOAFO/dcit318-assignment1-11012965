@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\INFINITY\OneDrive\Desktop\DC\Dcit 318 Project one\GradeCalculator.cs" Link="GradeCalculator.cs" />
+  </ItemGroup>
+
 </Project>
